@@ -4,7 +4,7 @@ This is my first Power BI dashboard created as an exam project for my Data Analy
  📊 Dashboard Overview
 Here is a preview of the Sales Dashboard:
 
-![Dashboard Preview](Screenshot.png)
+![Dashboard Preview](Screenshot (1724).png)
 Key Features & Metrics
 - KPI Cards:Total Quantity, Total Cost, Total Sales, and Total Profit.
 - Visualizations:
